@@ -12,7 +12,7 @@
 
 #Uso
 
--Para testes futuros, utilize o EclipseIDE:
+- Para testes futuros, utilize o EclipseIDE:
 
 - Abra o projeto no Eclipse.
 Execute a classe Game.java localizada em blockchainbasic/src/blockchainbasic/BlockChainBasic.java.
